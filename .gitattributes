@@ -1,0 +1,2 @@
+# Resource packs are byte-precise: never rewrite line endings.
+* -text
