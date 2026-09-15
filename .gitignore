@@ -1,1 +1,10 @@
+# Packed releases, written by tools/release.py.
 *.zip
+dist/
+
+# Dev output from the tools in tools/ (recipe splits, QA sheets, probes).
+_analysis/
+
+# Python bytecode caches.
+__pycache__/
+*.pyc
